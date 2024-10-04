@@ -1,13 +1,6 @@
 Type,Latitude,Longitude,Message
-Roadwork,1.3553224961061217,103.72341201817832,(3/10)21:26 Roadworks on PIE (towards Tuas) after Jurong East Ave 2. Avoid lane 1.
-Vehicle breakdown,1.272452970512337,103.84813416067811,(3/10)21:20 Vehicle breakdown on AYE (towards Tuas) after Keppel Rd exit.
-Roadwork,1.3553223337369236,103.71991247367262,(3/10)20:54 Roadworks on PIE (towards Tuas) at Jurong West Ave 2 Exit.
-Roadwork,1.3448478693119457,103.74268928200874,(3/10)20:41 Roadworks on PIE (towards Changi Airport) after Bukit Batok Rd. Avoid lane 1.
-Roadwork,1.3428113214353503,103.74656934518728,(3/10)20:41 Roadworks on PIE (towards Tuas) after Toh Guan Rd Exit. Avoid lane 1.
-Roadwork,1.3567264275455992,103.71555518324867,(3/10)20:36 Roadworks on PIE (towards Changi Airport) after Jurong West Ave 2. Avoid lane 1.
-Vehicle breakdown,1.3047547719802435,103.87757238600199,(3/10)19:54 Vehicle breakdown on KPE (towards ECP) after PIE Entrance.
-Accident,1.3337393651182512,103.81357601306489,(3/10)18:39 Accident on PIE (towards Tuas) after Adam Rd Exit.
-Heavy Traffic,1.3650257229455407,103.85979427198447,(3/10)17:24 Heavy Traffic on CTE (towards SLE) before AMK Ave 3 Exit.
-Accident,1.295609318096886,103.89194898825355,(3/10)17:22 Accident on ECP (towards Changi Airport) before Tg Katong Rd Exit with congestion till Fort Rd Exit. Avoid lanes 1 and 2.
-Heavy Traffic,1.4374823007177755,103.76848136392206,(3/10)16:26 Heavy Traffic on BKE (towards Woodlands) at Woodlands Checkpoint Exit.
-Vehicle breakdown,1.3926067794157813,103.90843434512004,(3/10)14:26 Vehicle breakdown on TPE (towards SLE) before Punggol Rd Exit.
+Roadwork,1.3448172458631897,103.74264363629057,(4/10)20:33 Roadworks on PIE (towards Changi Airport) after Bukit Batok Rd. Avoid lane 1.
+Roadwork,1.3428113219773568,103.74658452185488,(4/10)20:33 Roadworks on PIE (towards Tuas) after Toh Guan Rd Exit. Avoid lane 1.
+Roadwork,1.3567154020333418,103.71552795730504,(4/10)20:31 Roadworks on PIE (towards Changi Airport) after Jurong West Ave 2. Avoid lane 3.
+Roadwork,1.3556459909793828,103.71904031305336,(4/10)20:30 Roadworks on PIE (towards Tuas) before Jurong West Ave 2. Avoid lane 3.
+Roadwork,1.303762017302722,103.91032271075129,(4/10)15:53 Roadworks on ECP (towards Changi Airport) at Marine Parade Exit.
